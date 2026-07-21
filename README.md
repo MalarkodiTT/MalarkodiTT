@@ -137,11 +137,7 @@ Semantic Search and Question Answering from PDF documents.
 
 </p>
 
----
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=MalarkodiTT&style=for-the-badge&color=4F46E5"/>
 
 ### ⭐ Thanks for visiting my profile!
 
