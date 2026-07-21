@@ -1,36 +1,37 @@
 <div align="center">
 
-# 👋 Hi, I'm **Malarkodi Thirumurugan**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6366F1,100:3B82F6&height=200&section=header&text=Malarkodi%20Thirumurugan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### 💻 Computer Science & Engineering Student | 🚀 Full Stack Developer | ⛓️ Blockchain Enthusiast | 🤖 AI Explorer
+# 👋 Hi, I'm Malarkodi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+AI+Powered+Applications;Full+Stack+Developer;Blockchain+Enthusiast;Always+Learning+Something+New+🚀" />
+### 💻 Computer Science Engineering Student
+### 🚀Full Stack Developer • ⛓️Blockchain Enthusiast • 🤖AI Explorer
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6C63FF,50:7F7FD5,100:86A8E7&section=header"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&color=4F46E5&lines=Welcome+to+my+GitHub!;Building+AI+Powered+Applications;Full+Stack+Developer;Blockchain+Developer;Always+Learning+New+Things+🚀"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
 🎓 Computer Science & Engineering Student at **VSB Engineering College, Karur**
 
-💡 Passionate about **Full Stack Development, Artificial Intelligence, and Blockchain**
+💡 Passionate about **Full Stack Development**, **Blockchain**, and **Artificial Intelligence**
 
-🌱 Currently exploring modern AI tools, scalable backend systems, and blockchain technologies.
+🌱 Currently exploring scalable backend systems and AI-powered applications.
 
-🎯 Goal: **Build impactful software that solves real-world problems.**
+🎯 **Career Goal:** Become a Blockchain & AI Engineer.
+
+> **"Continuous Learning is my Mantra."**
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,nodejs,mongodb,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,nodejs,mongodb,mysql,git,github,vscode&perline=6"/>
 
 </p>
 
@@ -40,75 +41,62 @@
 
 ## 🤖 Config Drift Detector
 
-AI-powered configuration drift detection platform featuring:
+AI-powered configuration monitoring platform featuring:
 
-- Intelligent Risk Classification
-- Interactive Analytics Dashboard
-- PDF Report Generation
-- AI-generated Impact Analysis
 - Configuration Comparison
-- Historical Scan Tracking
+- Risk Classification
+- Interactive Dashboard
+- AI Impact Analysis
+- PDF Report Generation
 
-**Tech Stack**
-
-Python • Streamlit • SQLite • Groq API • Plotly • ReportLab
+**Tech:** Python • Streamlit • SQLite • Groq API
 
 ---
 
 ## 🗳 Blockchain E-Voting System
 
-A secure blockchain-based voting platform ensuring:
+A secure decentralized voting application built using Blockchain technology.
 
-- Transparent Elections
-- Tamper-Proof Records
-- Secure Authentication
-- Decentralized Voting
-
-**Tech Stack**
-
-Node.js • Blockchain
+**Tech:** Node.js • Blockchain
 
 ---
 
-## 🛒 Nursery E-Commerce Platform
+## 🌱 Nursery E-Commerce Platform
 
-Developed during Full Stack Internship.
+Developed during my Full Stack Internship.
 
-Features include:
+Features:
 
-- Authentication
+- User Authentication
 - Product Management
 - Shopping Cart
-- Order Processing
-- SQL Database Integration
+- SQL Database
 
-**Tech Stack**
-
-Node.js • SQL • HTML • CSS • JavaScript
+**Tech:** Node.js • SQL • HTML • CSS • JavaScript
 
 ---
 
 ## 🤖 AI Smart Attendance System
 
-Computer Vision based attendance system with automated face recognition.
+Face Recognition based Attendance Management using Computer Vision.
 
 ---
 
 ## 😊 Real-Time Mood Tracker
 
-AI-powered emotion recognition using Computer Vision.
+AI-powered Emotion Detection System using OpenCV.
 
 ---
 
-## 📚 PDF RAG System
+## 📄 PDF RAG System
 
-Retrieve intelligent answers from uploaded PDF documents using Retrieval-Augmented Generation.
+Semantic Search and Question Answering from PDF documents.
 
 ---
 
 # 🏆 Achievements
 
-🏅 700+ Points on Talentely
+🏅 700+ Talentely Points
 
 🏅 AWS Cloud Computing Certified
 
@@ -122,52 +110,30 @@ Retrieve intelligent answers from uploaded PDF documents using Retrieval-Augment
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MalarkodiTT&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MalarkodiTT&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MalarkodiTT&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://streak-stats.demolab.com?user=MalarkodiTT&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
-<br>
+<p align="center">
 
-<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalarkodiTT&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalarkodiTT&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 📈 Contribution Graph
+# 📫 Connect With Me
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MalarkodiTT&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MalarkodiTT&theme=algolia&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/malar2006">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/MalarkodiTT">
@@ -178,18 +144,18 @@ Retrieve intelligent answers from uploaded PDF documents using Retrieval-Augment
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ *"Continuous Learning is My Mantra."*
+<img src="https://komarev.com/ghpvc/?username=MalarkodiTT&style=for-the-badge&color=4F46E5"/>
 
-<img src="https://komarev.com/ghpvc/?username=MalarkodiTT&label=Profile+Views&color=6C63FF&style=for-the-badge"/>
+### ⭐ Thanks for visiting my profile!
 
-<br><br>
+*"Code • Learn • Build • Repeat"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6C63FF,50:7F7FD5,100:86A8E7&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:6366F1,100:4F46E5&height=120&section=footer"/>
 
 </div>
