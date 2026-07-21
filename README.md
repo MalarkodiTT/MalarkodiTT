@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Malarkodi
 
 ### 💻 Computer Science Engineering Student
-### 🚀Full Stack Developer • ⛓️Blockchain Enthusiast • 🤖AI Explorer
+### 🚀 Full Stack Developer • ⛓️ Blockchain Enthusiast • 🤖 AI Explorer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&color=4F46E5&lines=Welcome+to+my+GitHub!;Building+AI+Powered+Applications;Full+Stack+Developer;Blockchain+Developer;Always+Learning+New+Things+🚀"/>
 
@@ -31,7 +31,15 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,nodejs,mongodb,mysql,git,github,vscode&perline=6"/>
+## 🛠️ Tech Stack
+
+| Category | Skills |
+|----------|---------|
+| 💻 Languages | Java • Python |
+| 🌐 Web Technologies | HTML • CSS • JavaScript • Node.js |
+| 🗄️ Databases | MySQL • MongoDB |
+| ⚙️ Frameworks & Tools | Streamlit • Git • GitHub • VS Code |
+| 🚀 Technologies | Cloud Computing • Blockchain |
 
 </p>
 
@@ -110,23 +118,6 @@ Semantic Search and Question Answering from PDF documents.
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MalarkodiTT&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=MalarkodiTT&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalarkodiTT&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 📫 Connect With Me
 
