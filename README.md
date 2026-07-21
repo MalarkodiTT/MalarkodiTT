@@ -1,166 +1,114 @@
 <div align="center">
 
-# 🌸 Hi, I'm Malarkodi Thirumurugan 👋
+# 👋 Hi, I'm **Malarkodi Thirumurugan**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Full+Stack+Developer;Blockchain+Developer;AI+Enthusiast;Always+Learning+New+Technologies!" />
+### 💻 Computer Science & Engineering Student | 🚀 Full Stack Developer | ⛓️ Blockchain Enthusiast | 🤖 AI Explorer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4,8a2be2,00c9ff&height=220&section=header&text=Welcome%20to%20My%20Profile!&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+AI+Powered+Applications;Full+Stack+Developer;Blockchain+Enthusiast;Always+Learning+Something+New+🚀" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6C63FF,50:7F7FD5,100:86A8E7&section=header"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+🎓 Computer Science & Engineering Student at **VSB Engineering College, Karur**
 
-🌸 Computer Science & Engineering Student
+💡 Passionate about **Full Stack Development, Artificial Intelligence, and Blockchain**
 
-🏫 VSB Engineering College, Karur
+🌱 Currently exploring modern AI tools, scalable backend systems, and blockchain technologies.
 
-💻 Passionate about Full Stack Development
-
-⛓️ Blockchain Enthusiast
-
-🤖 AI Explorer
-
-🌱 Currently learning Advanced AI & Blockchain
-
-🎯 Goal: Become a Blockchain Engineer
-
-✨ Motto:
-
-> **Continuous Learning is My Superpower 🚀**
-
-<br>
+🎯 Goal: **Build impactful software that solves real-world problems.**
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-## 💻 Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js"/>
-</p>
-
-## 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,nodejs"/>
-</p>
-
-## ☁️ Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode"/>
-</p>
-
-## 🤖 AI & Blockchain
-
-<p>
-
-🧠 Artificial Intelligence
-
-⛓️ Blockchain
-
-📊 Streamlit
-
-⚡ Groq API
-
-📄 RAG Systems
+<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,nodejs,mongodb,mysql,git,github,vscode"/>
 
 </p>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-## 🛒 Online Nursery E-Commerce
+## 🤖 Config Drift Detector
 
-🛠 Node.js • SQL
+AI-powered configuration drift detection platform featuring:
 
-✅ Full Stack Internship Project
+- Intelligent Risk Classification
+- Interactive Analytics Dashboard
+- PDF Report Generation
+- AI-generated Impact Analysis
+- Configuration Comparison
+- Historical Scan Tracking
 
-✔ Authentication
+**Tech Stack**
 
-✔ Product Management
-
-✔ Order Management
-
-✔ Database Integration
+Python • Streamlit • SQLite • Groq API • Plotly • ReportLab
 
 ---
 
 ## 🗳 Blockchain E-Voting System
 
-🔐 Node.js + Blockchain
+A secure blockchain-based voting platform ensuring:
 
-✔ Secure Voting
+- Transparent Elections
+- Tamper-Proof Records
+- Secure Authentication
+- Decentralized Voting
 
-✔ Tamper Proof Records
+**Tech Stack**
 
-✔ Transparent Election
-
----
-
-## 🤖 Config Drift Detector
-
-🚀 AI Powered
-
-✨ Features
-
-✔ AI Risk Classification
-
-✔ Interactive Dashboard
-
-✔ PDF Reports
-
-✔ Analytics
-
-✔ AI Impact Analysis
+Node.js • Blockchain
 
 ---
 
-## 🎥 Smart Attendance System
+## 🛒 Nursery E-Commerce Platform
 
-📸 Computer Vision
+Developed during Full Stack Internship.
 
-✔ Face Detection
+Features include:
 
-✔ Automatic Attendance
+- Authentication
+- Product Management
+- Shopping Cart
+- Order Processing
+- SQL Database Integration
 
-✔ AI Recognition
+**Tech Stack**
+
+Node.js • SQL • HTML • CSS • JavaScript
+
+---
+
+## 🤖 AI Smart Attendance System
+
+Computer Vision based attendance system with automated face recognition.
 
 ---
 
 ## 😊 Real-Time Mood Tracker
 
-🤖 AI + OpenCV
-
-✔ Emotion Detection
-
-✔ Live Camera
-
-✔ Mood Analytics
+AI-powered emotion recognition using Computer Vision.
 
 ---
 
 ## 📚 PDF RAG System
 
-📄 Streamlit
-
-✔ PDF Upload
-
-✔ Semantic Search
-
-✔ Intelligent Question Answering
+Retrieve intelligent answers from uploaded PDF documents using Retrieval-Augmented Generation.
 
 ---
 
 # 🏆 Achievements
 
-🏅 700+ Talentely Points
+🏅 700+ Points on Talentely
 
 🏅 AWS Cloud Computing Certified
 
@@ -174,82 +122,74 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MalarkodiTT&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MalarkodiTT&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MalarkodiTT&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MalarkodiTT&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalarkodiTT&layout=compact&theme=radical&hide_border=true"/>
+<div align="center">
 
-</p>
+<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalarkodiTT&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MalarkodiTT&theme=radical&row=1&column=6"/>
-
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MalarkodiTT&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MalarkodiTT&theme=tokyo-night"/>
 
-</p>
+</div>
 
 ---
 
-# 🌈 Visitor Count
+# 🏅 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MalarkodiTT&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MalarkodiTT&theme=algolia&no-frame=true&margin-w=15"/>
 
-</p>
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="http://www.linkedin.com/in/malar2006">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/malar2006">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/MalarkodiTT">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:ttmalarkodi2006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-## 💖 Thanks for visiting my profile!
+### ⭐ *"Continuous Learning is My Mantra."*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C9FF&center=true&width=500&lines=Happy+Coding!;Let's+Build+Something+Amazing!;See+You+Again!" />
+<img src="https://komarev.com/ghpvc/?username=MalarkodiTT&label=Profile+Views&color=6C63FF&style=for-the-badge"/>
 
-⭐ **If you like my projects, don't forget to star them!**
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6C63FF,50:7F7FD5,100:86A8E7&section=footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00c9ff,8a2be2,ff69b4&height=120&section=footer"/>
