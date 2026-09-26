@@ -1,362 +1,209 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=MALARKODI%20T%20T&fontAlign=50&fontAlignY=42&fontSize=62&fontColor=ffffff&animation=twinkling&gradientStart=6A5ACD&gradientEnd=FF6B9A"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=MALARKODI%20T%20T&fontSize=58&fontColor=111827&fontAlignY=38&animation=twinkling&gradientColor=FDE68A,FBCFE8,C4B5FD,BAE6FD"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=21&duration=2800&pause=900&color=C45AA9&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;AI+%7C+Blockchain+%7C+DevOps+Enthusiast;Building+Real-World+Software+Solutions;Learning+Today.+Building+Tomorrow." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2500&pause=900&color=111827&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Full-Stack+Developer;AI+%7C+Blockchain+%7C+DevOps+Explorer;Building+Real-World+Software+Projects;Always+Learning.+Always+Building.+%F0%9F%9A%80"/>
 
 <br><br>
 
-<a href="https://github.com/MalarkodiTT">
-<img src="https://img.shields.io/badge/GitHub-MalarkodiTT-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/MalarkodiTT/leetcode">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+<img src="https://img.shields.io/badge/💻_BUILDING-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠_LEARNING-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_EXPLORING-EC4899?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🌷 About Me
+# ✨ Hello, I'm Malarkodi!
 
-Hi! I'm **Malarkodi T T**, a Computer Science Engineering student passionate about building practical software solutions.
+I'm a **Computer Science Engineering student** who loves turning ideas into working software.
 
-I enjoy exploring different areas of software engineering — from **full-stack applications and REST APIs** to **AI, blockchain, cryptography and DevOps**.
+My projects explore different areas of technology — from **AI-powered DevOps tools and cryptography** to **blockchain, full-stack applications, real-time communication and problem solving**.
 
-Rather than learning technologies only from theory, I prefer to understand them by **building projects, solving problems and experimenting with real implementations**.
-
-### 💭 My Approach
-
-> **Learn → Build → Debug → Understand → Improve**
-
----
-
-# 💻 Technical Skills
-
-### Programming Languages
-
-`Java` `Python` `JavaScript`
-
-### Frontend Development
-
-`HTML5` `CSS3` `JavaScript` `React` `Streamlit`
-
-### Backend Development
-
-`Node.js` `Express.js` `REST APIs`
-
-### Databases
-
-`MongoDB` `MongoDB Atlas` `MySQL` `Mongoose`
-
-### Artificial Intelligence
-
-`Groq` `Llama 3.1` `AI-powered Analysis` `Speech Recognition` `Text Translation` `gTTS`
-
-### Blockchain & Cryptography
-
-`Blockchain` `SHA-256` `Hashing` `Shamir's Secret Sharing` `Lagrange Interpolation` `BigInt`
-
-### Security
-
-`JWT` `Bcrypt` `OTP / 2FA` `Authentication` `Configuration Security`
-
-### Cloud & DevOps
-
-`AWS` `Git` `GitHub` `Deployment` `Configuration Management`
-
-### Libraries & Tools
-
-`DeepDiff` `Plotly` `ReportLab` `Socket.IO` `Jitsi Meet` `Mongoose`
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 Config Drift Detector
-
-### `AI × DevOps × Security`
-
-> **Detect configuration drift. Understand its impact. Fix it faster.**
-
-A configuration management and security platform that compares **intended configurations with deployed configurations** and identifies differences that could affect an application or environment.
-
-### ✨ Highlights
-
-* Configuration comparison using **DeepDiff**
-* Detects missing, added and modified configurations
-* Identifies data-type changes
-* Severity classification
-* AI-powered impact analysis
-* AI-generated remediation suggestions
-* Interactive analytics dashboard
-* Configuration history
-* PDF report generation
-* Authentication
-* SQLite persistence
-
-### 🛠️ Built With
-
-`Python` · `Streamlit` · `DeepDiff` · `Groq` · `Llama 3.1` · `SQLite` · `Plotly` · `ReportLab`
-
-**Repository:**
-https://github.com/MalarkodiTT/Config_Drift_Detector
-
----
-
-## 🔐 Shamir's Secret Sharing
-
-### `Cryptography × Mathematics × Full Stack`
-
-> **Turning mathematical cryptography into a working web application.**
-
-A full-stack implementation of **Shamir's Secret Sharing**, where a secret can be reconstructed only when the required threshold of shares is available.
-
-### ✨ Highlights
-
-* Threshold-based secret reconstruction
-* Lagrange interpolation
-* Large integer calculations using JavaScript `BigInt`
-* Numerical base decoding
-* JSON share processing
-* React interface
-* Node.js + Express backend
-* MongoDB persistence
-
-### 🛠️ Built With
-
-`React` · `Vite` · `JavaScript` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `BigInt`
-
-**Repository:**
-https://github.com/MalarkodiTT/Shamir-s-secret-share
-
----
-
-## 🌍 Automated Translation in Live Sessions
-
-### `Real-Time Communication × Speech × Translation`
-
-> **Breaking language barriers during live online sessions.**
-
-A real-time application that combines speech recognition, translation and voice generation to help participants communicate across different languages.
-
-### ✨ Highlights
-
-* Speech-to-text conversion
-* Real-time translation
-* Live translated subtitles
-* Voice dubbing
-* Multiple language support
-* Real-time communication using Socket.IO
-* Jitsi Meet integration
-* Host and participant workflow
-
-### 🛠️ Built With
-
-`React` · `Node.js` · `Express.js` · `Socket.IO` · `Web Speech API` · `Translation API` · `gTTS` · `Jitsi Meet`
-
-**Repository:**
-https://github.com/MalarkodiTT/Automated-translation-in-live-sessions
-
----
-
-## ⛓️ Blockchain-Based E-Voting System
-
-### `Blockchain × Security × Authentication`
-
-> **Exploring how cryptographic integrity can be applied to electronic voting.**
-
-A blockchain-based voting application focused on maintaining the integrity of voting records through hashing and linked blocks.
-
-### ✨ Highlights
-
-* Blockchain implementation
-* SHA-256 hashing
-* Previous-hash validation
-* Tamper detection
-* Voter authentication
-* OTP / 2FA verification
-* Candidate management
-* Voting management
-* Admin functionality
-
-### 🛠️ Built With
-
-`Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JavaScript` · `SHA-256`
-
-**Repository:**
-https://github.com/MalarkodiTT/Blockchain-Based-E-Voting-System
-
----
-
-## 🏥 Hospital Management System
-
-### `Full Stack × REST API × Database`
-
-> **A centralized platform for managing hospital operations.**
-
-A full-stack healthcare application designed to manage patients, doctors, appointments and administrative operations.
-
-### ✨ Highlights
-
-**Patient**
-
-* Appointment management
-* Insurance
-* Feedback
-
-**Doctor**
-
-* Appointment management
-* Patient queue
-* Digital prescriptions
-
-**Admin**
-
-* Doctor management
-* Resource management
-* Analytics
-
-### 🛡️ Security & Backend
-
-`JWT Authentication` · `Bcrypt` · `REST APIs` · `Mongoose`
-
-### 🛠️ Built With
-
-`HTML` · `CSS` · `JavaScript` · `Node.js` · `Express.js` · `MongoDB Atlas` · `Mongoose`
-
-**Repository:**
-https://github.com/MalarkodiTT/Hospital-Management-System
-
----
-
-## 👁️ Face Attendance System
-
-### `Face Recognition × Attendance Automation`
-
-A project exploring automated attendance using facial identification.
-
-### 🛠️ Built With
-
-`HTML` · `CSS` · `JavaScript`
-
-**Repository:**
-https://github.com/MalarkodiTT/Face-Attendence-System
-
----
-
-## 📝 Online Examination System
-
-### `Web Application × Digital Assessment`
-
-An online examination platform focused on creating a digital assessment workflow.
-
-### ✨ Highlights
-
-* Online examination
-* Exam workflow
-* Question handling
-* Timed assessment
-* Result processing
-
-**Repository:**
-https://github.com/MalarkodiTT/Online-Exam-System
-
----
-
-# 🧩 Problem Solving
-
-## LeetCode Journey
-
-I maintain a dedicated repository for practicing **Data Structures & Algorithms** and improving my problem-solving approach.
-
-### Areas I'm Practicing
-
-`Arrays` · `Strings` · `Linked Lists` · `Searching` · `Sorting` · `Recursion` · `Dynamic Programming` · `Problem Solving`
-
-**Repository:**
-https://github.com/MalarkodiTT/leetcode
-
----
-
-# 🎓 Learning & Growth
-
-Currently strengthening my fundamentals in:
-
-**Java**
-
-→ OOP · Collections · Exception Handling · Multithreading
-
-**DSA**
-
-→ Arrays · Strings · Linked Lists · Algorithms · Problem Solving
-
-**Database**
-
-→ SQL · DBMS · Normalization · Query Optimization
-
-**Backend**
-
-→ REST APIs · Node.js · Express.js · Authentication
-
-**Emerging Technologies**
-
-→ AI · Blockchain · Cryptography · Cloud · DevOps
-
----
-
-# 🌱 Beyond Technology
-
-🎓 **Computer Science Engineering Student**
-
-💻 **Full-Stack Development Experience**
-
-🤖 **AI & Intelligent Application Builder**
-
-⛓️ **Blockchain & Cryptography Explorer**
-
-🧩 **Problem-Solving Enthusiast**
-
-🥋 **State-Level Silambam Player**
-
----
-
-# 💡 What I Believe
+I believe in learning technology by actually building with it.
 
 <div align="center">
 
-### Don't just learn a technology.
-
-### Build something with it.
-
-### Break it.
-
-### Understand why it broke.
-
-### Make it better.
-
-<br>
-
-**That's how I learn.**
+### 💡 `Learn → Build → Experiment → Debug → Improve`
 
 </div>
 
 ---
 
-# 📬 Let's Connect
+# 🛠️ TECHNICAL SKILLS
+
+## 👩‍💻 Programming Languages
 
 <div align="center">
 
-<a href="https://github.com/MalarkodiTT">
-<img src="https://img.shields.io/badge/GitHub-MalarkodiTT-24292F?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827"/>
+
+</div>
+
+---
+
+## 🎨 Frontend Development
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</div>
+
+---
+
+## ⚙️ Backend Development
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+
+</div>
+
+---
+
+## 🗄️ Database & Data
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB_Atlas-00ED64?style=for-the-badge&logo=mongodb&logoColor=111827"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+</div>
+
+---
+
+## 🤖 AI & Intelligent Systems
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Llama_3.1-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Speech_Recognition-FF4B8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Analysis-8B5CF6?style=for-the-badge"/>
+
+</div>
+
+---
+
+## ⛓️ Blockchain & Cryptography
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Blockchain-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHA--256-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hashing-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cryptography-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Shamir's_Secret_Sharing-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lagrange_Interpolation-F59E0B?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🔐 Security
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bcrypt-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/2FA-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Authentication-E11D48?style=for-the-badge"/>
+
+</div>
+
+---
+
+## ☁️ Cloud, DevOps & Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111827"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</div>
+
+---
+
+## 📊 Libraries & Technologies
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DeepDiff-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReportLab-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jitsi-80C904?style=for-the-badge&logo=jitsi&logoColor=111827"/>
+
+</div>
+
+---
+
+# 🌟 WHAT I LOVE BUILDING
+
+<div align="center">
+
+### 🤖 Intelligent Applications
+
+**AI-powered tools · LLM integration · Speech processing**
+
+### 🔐 Secure Systems
+
+**Cryptography · Authentication · Hashing · Security**
+
+### 🌐 Full-Stack Applications
+
+**Frontend · APIs · Backend · Databases**
+
+### ⛓️ Emerging Technologies
+
+**Blockchain · Secret Sharing · Distributed Systems**
+
+### 🧩 Problem Solving
+
+**Java · Algorithms · Data Structures · LeetCode**
+
+</div>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+### 🤖 CONFIG DRIFT DETECTOR
+
+**AI × DevOps × Security**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+<img src="https://img.shields.io/badge/DeepDiff-6366F1?style=flat-square"/>
 
 <br><br>
 
-### ⭐ Explore my repositories and follow my journey!
+A configuration analysis platform that compares intended and deployed configurations, identifies drift, classifies severity and provides AI-assisted impact and remediation analysis.
+
+<br>
+
+<a href="https://github.com/MalarkodiTT/Config_Drift_Detector">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-EC4899?style=for-the-badge"/>
+</a>
 
 </div>
 
@@ -364,8 +211,181 @@ Currently strengthening my fundamentals in:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&gradientStart=6A5ACD&gradientEnd=FF6B9A"/>
+### 🔐 SHAMIR'S SECRET SHARING
 
-### ✨ Learning today · Building tomorrow ✨
+**Cryptography × Mathematics × Full Stack**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827"/>
+<img src="https://img.shields.io/badge/Node.js-68A063?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+<br><br>
+
+A full-stack implementation of threshold-based secret reconstruction using Lagrange interpolation and BigInt arithmetic.
+
+<br>
+
+<a href="https://github.com/MalarkodiTT/Shamir-s-secret-share">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌍 AUTOMATED TRANSLATION IN LIVE SESSIONS
+
+**Real-Time Communication × Speech × Translation**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io"/>
+<img src="https://img.shields.io/badge/Jitsi-80C904?style=flat-square&logo=jitsi"/>
+
+<br><br>
+
+A real-time multilingual communication platform combining speech recognition, translation, live subtitles and voice dubbing.
+
+<br>
+
+<a href="https://github.com/MalarkodiTT/Automated-translation-in-live-sessions">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-F59E0B?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⛓️ BLOCKCHAIN-BASED E-VOTING SYSTEM
+
+**Blockchain × Security × SHA-256**
+
+<img src="https://img.shields.io/badge/Node.js-68A063?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHA--256-EF4444?style=flat-square"/>
+
+<br><br>
+
+A blockchain-inspired voting platform implementing cryptographic hashing, previous-hash validation, authentication and tamper detection.
+
+<br>
+
+<a href="https://github.com/MalarkodiTT/Blockchain-Based-E-Voting-System">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-EF4444?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏥 HOSPITAL MANAGEMENT SYSTEM
+
+**Full Stack × REST API × MongoDB**
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-68A063?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-111827?style=flat-square"/>
+
+<br><br>
+
+A full-stack healthcare platform covering patients, doctors, appointments, prescriptions, insurance and administrative workflows.
+
+<br>
+
+<a href="https://github.com/MalarkodiTT/Hospital-Management-System">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-16A34A?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# 📚 MORE PROJECTS
+
+| Project                        | Focus                 |                            Repository                           |
+| :----------------------------- | :-------------------- | :-------------------------------------------------------------: |
+| 👁️ **Face Attendance System** | Face-based attendance | [View →](https://github.com/MalarkodiTT/Face-Attendence-System) |
+| 📝 **Online Exam System**      | Online assessment     |   [View →](https://github.com/MalarkodiTT/Online-Exam-System)   |
+| 🧩 **LeetCode**                | DSA & problem solving |        [View →](https://github.com/MalarkodiTT/leetcode)        |
+
+---
+
+# 📊 GITHUB
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MalarkodiTT&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&text_color=111827&icon_color=EC4899"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalarkodiTT&layout=compact&hide_border=true&theme=transparent&title_color=EC4899&text_color=111827"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=MalarkodiTT&theme=transparent&hide_border=true&ring=EC4899&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=111827&dates=6B7280"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MalarkodiTT/MalarkodiTT/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🎯 CURRENTLY LEARNING
+
+<div align="center">
+
+🟣 **Advanced Java & OOP**
+
+🔵 **Data Structures & Algorithms**
+
+🟢 **DBMS & SQL**
+
+🟠 **Backend Development**
+
+🩷 **AI Applications**
+
+🟡 **Blockchain & Cryptography**
+
+🔷 **Cloud & DevOps**
+
+</div>
+
+---
+
+# 💭 MY DEVELOPER PHILOSOPHY
+
+<div align="center">
+
+### **"I don't just learn technologies.**
+
+### **I build projects that force me to understand them."**
+
+<br>
+
+💡 **Curiosity** → 🛠️ **Building** → 🐛 **Debugging** → 🧠 **Understanding** → 🚀 **Improving**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&fontSize=30&fontColor=111827&animation=twinkling&gradientColor=FBCFE8,C4B5FD,BAE6FD,FDE68A"/>
+
+### 🌈 BUILD • LEARN • CREATE • REPEAT
 
 </div>
