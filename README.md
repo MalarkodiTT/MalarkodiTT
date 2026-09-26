@@ -330,16 +330,6 @@ A dedicated repository for continuously improving algorithmic thinking through c
 
 ---
 
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MalarkodiTT/MalarkodiTT/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
 # 📌 What I'm Currently Improving
 
 <div align="center">
