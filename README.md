@@ -1,3 +1,31 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MALARKODI%20T%20T&fontAlign=50&fontAlignY=40&fontSize=58&fontColor=ffffff&animation=fadeIn&color=4B0082"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Full-Stack+Developer;AI+%7C+Blockchain+%7C+DevOps+Enthusiast;Building+Real-World+Software+Systems;Problem+Solver+%7C+Continuous+Learner"/>
+
+<br><br>
+
+<a href="https://github.com/MalarkodiTT">
+<img src="https://img.shields.io/badge/GitHub-MalarkodiTT-181717?style=for-the-badge&logo=github"/>
+</a>
+
+ 
+
+<a href="https://github.com/MalarkodiTT?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-2ea44f?style=for-the-badge&logo=github"/>
+</a>
+
+ 
+
+<a href="https://github.com/MalarkodiTT/leetcode">
+<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
 ---
 
 ## 👩‍💻 About Me
@@ -18,49 +46,33 @@ I learn best by building — taking a concept, implementing it, debugging it, an
 
 **Java · Python · JavaScript**
 
----
-
 ### 🌐 Frontend Development
 
 **HTML5 · CSS3 · JavaScript · React · Streamlit**
-
----
 
 ### ⚙️ Backend Development
 
 **Node.js · Express.js · REST APIs**
 
----
-
 ### 🗄️ Databases
 
 **MongoDB · MongoDB Atlas · MySQL · Mongoose**
-
----
 
 ### 🤖 AI & Intelligent Systems
 
 **Groq · Llama 3.1 · AI-powered analysis · Speech Recognition · Text Translation · gTTS**
 
----
-
 ### ⛓️ Blockchain & Cryptography
 
 **Blockchain Fundamentals · SHA-256 · Hashing · Tamper Detection · Shamir's Secret Sharing · Lagrange Interpolation · BigInt**
-
----
 
 ### 🔐 Security
 
 **JWT · Bcrypt · OTP / 2FA · Authentication · Configuration Security**
 
----
-
 ### ☁️ Cloud & DevOps
 
 **AWS · Git · GitHub · Deployment · Configuration Management**
-
----
 
 ### 📊 Tools & Libraries
 
@@ -236,23 +248,37 @@ A dedicated repository for continuously improving algorithmic thinking through c
 
 # 📊 GitHub Activity
 
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MalarkodiTT&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalarkodiTT&layout=compact&hide_border=true&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=MalarkodiTT&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 ---
 
 # 📌 What I'm Currently Improving
 
-| Focus       | Goal                              |
-| ----------- | --------------------------------- |
-| ☕ Java      | Strong fundamentals + OOP         |
-| 🧩 DSA      | Problem-solving & algorithms      |
-| 🗄️ SQL     | Queries + database concepts       |
-| 🌐 Backend  | APIs + system design fundamentals |
-| 🤖 AI       | Practical AI integrations         |
+|    Focus    | Goal                              |
+| :---------: | :-------------------------------- |
+|    ☕ Java   | Strong fundamentals + OOP         |
+|    🧩 DSA   | Problem-solving & algorithms      |
+|   🗄️ SQL   | Queries + database concepts       |
+|  🌐 Backend | APIs + system design fundamentals |
+|    🤖 AI    | Practical AI integrations         |
 | 🔐 Security | Authentication + cryptography     |
-| ☁️ Cloud    | Deployment + cloud fundamentals   |
+|   ☁️ Cloud  | Deployment + cloud fundamentals   |
 
 ---
 
 # 🏆 Beyond Code
+
+<div align="center">
 
 🎓 **Computer Science Engineering**
 
@@ -266,16 +292,30 @@ A dedicated repository for continuously improving algorithmic thinking through c
 
 🥋 **State-Level Silambam Player**
 
+</div>
+
 ---
 
 # 💭 My Developer Philosophy
+
+<div align="center">
 
 ### "Don't learn technology just to say you know it."
 
 ### "Build something that forces you to understand it."
 
+<br>
+
 **Learn → Build → Debug → Understand → Improve**
+
+</div>
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=4B0082"/>
+
 ### ⚡ Building today. Learning every day. Engineering tomorrow.
+
+</div>
