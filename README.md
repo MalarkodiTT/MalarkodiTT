@@ -1,27 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MALARKODI%20T%20T&fontAlign=50&fontAlignY=40&fontSize=58&fontColor=ffffff&animation=fadeIn&color=0:4B0082,50:4B0082,100:4B0082"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Full-Stack+Developer;AI+%7C+Blockchain+%7C+DevOps+Enthusiast;Building+Real-World+Software+Systems;Problem+Solver+%7C+Continuous+Learner" />
-
-<br><br>
-
-<a href="https://github.com/MalarkodiTT">
-<img src="https://img.shields.io/badge/GitHub-MalarkodiTT-181717?style=for-the-badge&logo=github"/>
-</a>
-&nbsp;
-<a href="https://github.com/MalarkodiTT?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-2ea44f?style=for-the-badge&logo=github"/>
-</a>
-&nbsp;
-<a href="https://github.com/MalarkodiTT/leetcode">
-<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</div>
-
 ---
 
 ## 👩‍💻 About Me
@@ -40,19 +16,11 @@ I learn best by building — taking a concept, implementing it, debugging it, an
 
 ### 👨‍💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
-
 **Java · Python · JavaScript**
 
 ---
 
 ### 🌐 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
 
 **HTML5 · CSS3 · JavaScript · React · Streamlit**
 
@@ -60,19 +28,11 @@ I learn best by building — taking a concept, implementing it, debugging it, an
 
 ### ⚙️ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
 **Node.js · Express.js · REST APIs**
 
 ---
 
 ### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
 
 **MongoDB · MongoDB Atlas · MySQL · Mongoose**
 
@@ -98,10 +58,6 @@ I learn best by building — taking a concept, implementing it, debugging it, an
 
 ### ☁️ Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
-</p>
-
 **AWS · Git · GitHub · Deployment · Configuration Management**
 
 ---
@@ -114,19 +70,9 @@ I learn best by building — taking a concept, implementing it, debugging it, an
 
 # 🚀 Featured Projects
 
-<div align="center">
-
 ## 🤖 Config Drift Detector
 
 ### `AI × DevOps × Security`
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Llama_3.1-6C5CE7?style=flat-square"/>
-<img src="https://img.shields.io/badge/DeepDiff-222222?style=flat-square"/>
-
-</div>
 
 A configuration security platform that compares **intended configurations with deployed configurations**, detects drift, classifies severity, and uses AI to explain impact and remediation.
 
@@ -145,22 +91,14 @@ A configuration security platform that compares **intended configurations with d
 
 **Technologies:** Python · Streamlit · DeepDiff · Groq · Llama 3.1 · SQLite · Plotly · ReportLab
 
-🔗 **[View Repository →](https://github.com/MalarkodiTT/Config_Drift_Detector)**
+🔗 [**View Repository →**](https://github.com/MalarkodiTT/Config_Drift_Detector)
+🚀 [**Live Demo →**](https://config-drift-detector-kgrl.onrender.com/)
 
 ---
-
-<div align="center">
 
 ## 🔐 Shamir's Secret Sharing
 
 ### `Cryptography × Mathematics × Full Stack`
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cryptography-8A2BE2?style=flat-square"/>
-
-</div>
 
 A full-stack implementation of **Shamir's Secret Sharing**, allowing a secret to be reconstructed from a required threshold of shares.
 
@@ -177,17 +115,14 @@ A full-stack implementation of **Shamir's Secret Sharing**, allowing a secret to
 
 **Technologies:** React · Vite · JavaScript · Node.js · Express · MongoDB · Mongoose · BigInt
 
-🔗 **[View Repository →](https://github.com/MalarkodiTT/Shamir-s-secret-share)**
+🔗 [**View Repository →**](https://github.com/MalarkodiTT/Shamir-s-secret-share)
+🚀 [**Live Demo →**](https://shamir-s-secret-share.vercel.app/)
 
 ---
-
-<div align="center">
 
 ## 🌍 Automated Translation in Live Sessions
 
 ### `Real-Time Communication × Speech × Translation`
-
-</div>
 
 A real-time communication platform designed to reduce language barriers during online sessions.
 
@@ -204,17 +139,14 @@ A real-time communication platform designed to reduce language barriers during o
 
 **Technologies:** React · Node.js · Express · Socket.IO · Web Speech API · Translation API · gTTS · Jitsi Meet
 
-🔗 **[View Repository →](https://github.com/MalarkodiTT/Automated-translation-in-live-sessions)**
+🔗 [**View Repository →**](https://github.com/MalarkodiTT/Automated-translation-in-live-sessions)
+🚀 [**Live Demo →**](https://automated-translation-in-live-sessi.vercel.app/)
 
 ---
-
-<div align="center">
 
 ## ⛓️ Blockchain-Based E-Voting System
 
 ### `Blockchain × Security × Authentication`
-
-</div>
 
 A blockchain-inspired electronic voting system focused on **cryptographic integrity and tamper detection**.
 
@@ -232,17 +164,14 @@ A blockchain-inspired electronic voting system focused on **cryptographic integr
 
 **Technologies:** Node.js · Express.js · MongoDB · Mongoose · JavaScript · SHA-256
 
-🔗 **[View Repository →](https://github.com/MalarkodiTT/Blockchain-Based-E-Voting-System)**
+🔗 [**View Repository →**](https://github.com/MalarkodiTT/Blockchain-Based-E-Voting-System)
+🚀 [**Live Demo →**](https://blockchain-based-e-voting-system-1uvi.onrender.com/)
 
 ---
-
-<div align="center">
 
 ## 🏥 Hospital Management System
 
 ### `Full Stack × REST API × Database`
-
-</div>
 
 A full-stack healthcare management platform for managing patients, doctors, appointments and administrative operations.
 
@@ -262,47 +191,38 @@ A full-stack healthcare management platform for managing patients, doctors, appo
 
 **Technologies:** HTML · CSS · JavaScript · Node.js · Express.js · MongoDB Atlas · Mongoose · JWT · Bcrypt
 
-🔗 **[View Repository →](https://github.com/MalarkodiTT/Hospital-Management-System)**
+🔗 [**View Repository →**](https://github.com/MalarkodiTT/Hospital-Management-System)
+🚀 [**Live Demo →**](https://hospital-management-system-n5sp.onrender.com/)
 
 ---
-
-<div align="center">
 
 ## 👁️ Face Attendance System
 
 ### `Computer Vision × Attendance`
 
-</div>
-
 A project focused on automating attendance through facial identification.
 
 **Technologies:** HTML · CSS · JavaScript
 
-🔗 **[View Repository →](https://github.com/MalarkodiTT/Face-Attendence-System)**
+🔗 [**View Repository →**](https://github.com/MalarkodiTT/Face-Attendence-System)
+🚀 [**Live Demo →**](https://malarkoditt.github.io/Face-Attendence-System/)
 
 ---
-
-<div align="center">
 
 ## 📝 Online Examination System
 
 ### `Web Application × Digital Assessment`
 
-</div>
-
 An online examination platform designed around the digital assessment workflow, including examination, submission and result processing.
 
-🔗 **[View Repository →](https://github.com/MalarkodiTT/Online-Exam-System)**
+🔗 [**View Repository →**](https://github.com/MalarkodiTT/Online-Exam-System)
+🚀 [**Live Demo →**](https://online-exam-system-zicl.vercel.app/)
 
 ---
-
-<div align="center">
 
 ## 🧩 LeetCode Journey
 
 ### `Problem Solving × Data Structures × Algorithms`
-
-</div>
 
 A dedicated repository for continuously improving algorithmic thinking through coding problems.
 
@@ -310,47 +230,29 @@ A dedicated repository for continuously improving algorithmic thinking through c
 
 `Arrays` · `Strings` · `Linked Lists` · `Searching` · `Sorting` · `Recursion` · `Dynamic Programming` · `Problem Solving`
 
-🔗 **[Explore Solutions →](https://github.com/MalarkodiTT/leetcode)**
+🔗 [**Explore Solutions →**](https://github.com/MalarkodiTT/leetcode)
 
 ---
 
 # 📊 GitHub Activity
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MalarkodiTT&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalarkodiTT&layout=compact&hide_border=true&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=MalarkodiTT&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
 # 📌 What I'm Currently Improving
 
-<div align="center">
-
-|    Focus    | Goal                              |
-| :---------: | :-------------------------------- |
-|    ☕ Java   | Strong fundamentals + OOP         |
-|    🧩 DSA   | Problem-solving & algorithms      |
-|   🗄️ SQL   | Queries + database concepts       |
-|  🌐 Backend | APIs + system design fundamentals |
-|    🤖 AI    | Practical AI integrations         |
+| Focus       | Goal                              |
+| ----------- | --------------------------------- |
+| ☕ Java      | Strong fundamentals + OOP         |
+| 🧩 DSA      | Problem-solving & algorithms      |
+| 🗄️ SQL     | Queries + database concepts       |
+| 🌐 Backend  | APIs + system design fundamentals |
+| 🤖 AI       | Practical AI integrations         |
 | 🔐 Security | Authentication + cryptography     |
-|   ☁️ Cloud  | Deployment + cloud fundamentals   |
-
-</div>
+| ☁️ Cloud    | Deployment + cloud fundamentals   |
 
 ---
 
 # 🏆 Beyond Code
-
-<div align="center">
 
 🎓 **Computer Science Engineering**
 
@@ -364,30 +266,16 @@ A dedicated repository for continuously improving algorithmic thinking through c
 
 🥋 **State-Level Silambam Player**
 
-</div>
-
 ---
 
 # 💭 My Developer Philosophy
-
-<div align="center">
 
 ### "Don't learn technology just to say you know it."
 
 ### "Build something that forces you to understand it."
 
-<br>
-
 **Learn → Build → Debug → Understand → Improve**
-
-</div>
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:4B0082,50:4B0082,100:4B0082"/>
-
 ### ⚡ Building today. Learning every day. Engineering tomorrow.
-
-</div>
