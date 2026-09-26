@@ -1,386 +1,362 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=MALARKODI%20T%20T&fontAlign=50&fontAlignY=40&fontSize=62&fontColor=ffffff&animation=fadeIn&gradient=true&color=0:0F0C29,50:302B63,100:24243E"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=MALARKODI%20T%20T&fontAlign=50&fontAlignY=42&fontSize=62&fontColor=ffffff&animation=twinkling&gradientStart=6A5ACD&gradientEnd=FF6B9A"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=E6B8FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Full-Stack+Developer;AI+%7C+Blockchain+%7C+DevOps;Cryptography+%7C+Security+%7C+Problem+Solving;Turning+Ideas+Into+Working+Systems+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=21&duration=2800&pause=900&color=C45AA9&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;AI+%7C+Blockchain+%7C+DevOps+Enthusiast;Building+Real-World+Software+Solutions;Learning+Today.+Building+Tomorrow." />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/BUILDING-0F0C29?style=for-the-badge&labelColor=302B63&color=9B59B6"/>
-<img src="https://img.shields.io/badge/LEARNING-0F0C29?style=for-the-badge&labelColor=302B63&color=BB86FC"/>
-<img src="https://img.shields.io/badge/EXPLORING-0F0C29?style=for-the-badge&labelColor=302B63&color=E0AAFF"/>
+<a href="https://github.com/MalarkodiTT">
+<img src="https://img.shields.io/badge/GitHub-MalarkodiTT-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MalarkodiTT/leetcode">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🌷 About Me
 
-I'm **Malarkodi T T**, a Computer Science Engineering student who enjoys turning ideas into working software.
+Hi! I'm **Malarkodi T T**, a Computer Science Engineering student passionate about building practical software solutions.
 
-My projects span across **AI, Full-Stack Development, Blockchain, Cryptography, DevOps, Computer Vision, and Problem Solving**.
+I enjoy exploring different areas of software engineering — from **full-stack applications and REST APIs** to **AI, blockchain, cryptography and DevOps**.
 
-I learn best by building — taking a concept, implementing it, debugging it, and understanding what happens behind the scenes.
+Rather than learning technologies only from theory, I prefer to understand them by **building projects, solving problems and experimenting with real implementations**.
 
-> **Build → Break → Debug → Understand → Improve**
+### 💭 My Approach
 
----
-
-# 🛠️ Technical Skills
-
-### 👨‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
-
-**Java · Python · JavaScript**
+> **Learn → Build → Debug → Understand → Improve**
 
 ---
 
-### 🌐 Frontend Development
+# 💻 Technical Skills
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+### Programming Languages
 
-**HTML5 · CSS3 · JavaScript · React · Streamlit**
+`Java` `Python` `JavaScript`
 
----
+### Frontend Development
 
-### ⚙️ Backend Development
+`HTML5` `CSS3` `JavaScript` `React` `Streamlit`
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+### Backend Development
 
-**Node.js · Express.js · REST APIs**
+`Node.js` `Express.js` `REST APIs`
 
----
+### Databases
 
-### 🗄️ Databases
+`MongoDB` `MongoDB Atlas` `MySQL` `Mongoose`
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+### Artificial Intelligence
 
-**MongoDB · MongoDB Atlas · MySQL · Mongoose**
+`Groq` `Llama 3.1` `AI-powered Analysis` `Speech Recognition` `Text Translation` `gTTS`
 
----
+### Blockchain & Cryptography
 
-### 🤖 AI & Intelligent Systems
+`Blockchain` `SHA-256` `Hashing` `Shamir's Secret Sharing` `Lagrange Interpolation` `BigInt`
 
-**Groq · Llama 3.1 · AI-powered analysis · Speech Recognition · Text Translation · gTTS**
+### Security
 
----
+`JWT` `Bcrypt` `OTP / 2FA` `Authentication` `Configuration Security`
 
-### ⛓️ Blockchain & Cryptography
+### Cloud & DevOps
 
-**Blockchain Fundamentals · SHA-256 · Hashing · Tamper Detection · Shamir's Secret Sharing · Lagrange Interpolation · BigInt**
+`AWS` `Git` `GitHub` `Deployment` `Configuration Management`
 
----
+### Libraries & Tools
 
-### 🔐 Security
-
-**JWT · Bcrypt · OTP / 2FA · Authentication · Configuration Security**
-
----
-
-### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
-</p>
-
-**AWS · Git · GitHub · Deployment · Configuration Management**
-
----
-
-### 📊 Tools & Libraries
-
-**Streamlit · DeepDiff · Plotly · ReportLab · Socket.IO · Jitsi Meet · Mongoose**
+`DeepDiff` `Plotly` `ReportLab` `Socket.IO` `Jitsi Meet` `Mongoose`
 
 ---
 
 # 🚀 Featured Projects
 
-<div align="center">
-
 ## 🤖 Config Drift Detector
 
 ### `AI × DevOps × Security`
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Llama_3.1-6C5CE7?style=flat-square"/>
-<img src="https://img.shields.io/badge/DeepDiff-222222?style=flat-square"/>
+> **Detect configuration drift. Understand its impact. Fix it faster.**
 
-</div>
+A configuration management and security platform that compares **intended configurations with deployed configurations** and identifies differences that could affect an application or environment.
 
-A configuration security platform that compares **intended configurations with deployed configurations**, detects drift, classifies severity, and uses AI to explain impact and remediation.
-
-### Key Features
+### ✨ Highlights
 
 * Configuration comparison using **DeepDiff**
-* Missing, added, modified and type-change detection
-* Critical / High / Medium / Low severity classification
+* Detects missing, added and modified configurations
+* Identifies data-type changes
+* Severity classification
 * AI-powered impact analysis
 * AI-generated remediation suggestions
 * Interactive analytics dashboard
-* Historical configuration tracking
+* Configuration history
 * PDF report generation
-* Authentication and secure access
-* SQLite-based persistence
+* Authentication
+* SQLite persistence
 
-**Technologies:** Python · Streamlit · DeepDiff · Groq · Llama 3.1 · SQLite · Plotly · ReportLab
+### 🛠️ Built With
 
-🔗 **[View Repository →](https://github.com/MalarkodiTT/Config_Drift_Detector)**
+`Python` · `Streamlit` · `DeepDiff` · `Groq` · `Llama 3.1` · `SQLite` · `Plotly` · `ReportLab`
+
+**Repository:**
+https://github.com/MalarkodiTT/Config_Drift_Detector
 
 ---
-
-<div align="center">
 
 ## 🔐 Shamir's Secret Sharing
 
 ### `Cryptography × Mathematics × Full Stack`
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cryptography-8A2BE2?style=flat-square"/>
+> **Turning mathematical cryptography into a working web application.**
 
-</div>
+A full-stack implementation of **Shamir's Secret Sharing**, where a secret can be reconstructed only when the required threshold of shares is available.
 
-A full-stack implementation of **Shamir's Secret Sharing**, allowing a secret to be reconstructed from a required threshold of shares.
-
-### Key Features
+### ✨ Highlights
 
 * Threshold-based secret reconstruction
 * Lagrange interpolation
-* Large-number calculations using JavaScript `BigInt`
-* Multiple numerical base decoding
+* Large integer calculations using JavaScript `BigInt`
+* Numerical base decoding
 * JSON share processing
-* React-based user interface
+* React interface
 * Node.js + Express backend
 * MongoDB persistence
 
-**Technologies:** React · Vite · JavaScript · Node.js · Express · MongoDB · Mongoose · BigInt
+### 🛠️ Built With
 
-🔗 **[View Repository →](https://github.com/MalarkodiTT/Shamir-s-secret-share)**
+`React` · `Vite` · `JavaScript` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `BigInt`
+
+**Repository:**
+https://github.com/MalarkodiTT/Shamir-s-secret-share
 
 ---
-
-<div align="center">
 
 ## 🌍 Automated Translation in Live Sessions
 
 ### `Real-Time Communication × Speech × Translation`
 
-</div>
+> **Breaking language barriers during live online sessions.**
 
-A real-time communication platform designed to reduce language barriers during online sessions.
+A real-time application that combines speech recognition, translation and voice generation to help participants communicate across different languages.
 
-### Key Features
+### ✨ Highlights
 
 * Speech-to-text conversion
-* Real-time language translation
+* Real-time translation
 * Live translated subtitles
-* Text-to-speech / voice dubbing
-* Host and participant workflow
-* Real-time communication with Socket.IO
-* Jitsi Meet integration
+* Voice dubbing
 * Multiple language support
+* Real-time communication using Socket.IO
+* Jitsi Meet integration
+* Host and participant workflow
 
-**Technologies:** React · Node.js · Express · Socket.IO · Web Speech API · Translation API · gTTS · Jitsi Meet
+### 🛠️ Built With
 
-🔗 **[View Repository →](https://github.com/MalarkodiTT/Automated-translation-in-live-sessions)**
+`React` · `Node.js` · `Express.js` · `Socket.IO` · `Web Speech API` · `Translation API` · `gTTS` · `Jitsi Meet`
+
+**Repository:**
+https://github.com/MalarkodiTT/Automated-translation-in-live-sessions
 
 ---
-
-<div align="center">
 
 ## ⛓️ Blockchain-Based E-Voting System
 
 ### `Blockchain × Security × Authentication`
 
-</div>
+> **Exploring how cryptographic integrity can be applied to electronic voting.**
 
-A blockchain-inspired electronic voting system focused on **cryptographic integrity and tamper detection**.
+A blockchain-based voting application focused on maintaining the integrity of voting records through hashing and linked blocks.
 
-### Key Features
+### ✨ Highlights
 
-* Blockchain-based vote records
+* Blockchain implementation
 * SHA-256 hashing
 * Previous-hash validation
 * Tamper detection
 * Voter authentication
 * OTP / 2FA verification
 * Candidate management
-* Voting status management
+* Voting management
 * Admin functionality
 
-**Technologies:** Node.js · Express.js · MongoDB · Mongoose · JavaScript · SHA-256
+### 🛠️ Built With
 
-🔗 **[View Repository →](https://github.com/MalarkodiTT/Blockchain-Based-E-Voting-System)**
+`Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JavaScript` · `SHA-256`
+
+**Repository:**
+https://github.com/MalarkodiTT/Blockchain-Based-E-Voting-System
 
 ---
-
-<div align="center">
 
 ## 🏥 Hospital Management System
 
 ### `Full Stack × REST API × Database`
 
-</div>
+> **A centralized platform for managing hospital operations.**
 
-A full-stack healthcare management platform for managing patients, doctors, appointments and administrative operations.
+A full-stack healthcare application designed to manage patients, doctors, appointments and administrative operations.
 
-### Key Features
+### ✨ Highlights
 
-* Patient management
-* Appointment scheduling
-* Doctor management
-* Patient queue management
+**Patient**
+
+* Appointment management
+* Insurance
+* Feedback
+
+**Doctor**
+
+* Appointment management
+* Patient queue
 * Digital prescriptions
-* Insurance management
+
+**Admin**
+
+* Doctor management
 * Resource management
-* Admin dashboard
-* REST API integration
-* JWT authentication
-* Bcrypt password hashing
+* Analytics
 
-**Technologies:** HTML · CSS · JavaScript · Node.js · Express.js · MongoDB Atlas · Mongoose · JWT · Bcrypt
+### 🛡️ Security & Backend
 
-🔗 **[View Repository →](https://github.com/MalarkodiTT/Hospital-Management-System)**
+`JWT Authentication` · `Bcrypt` · `REST APIs` · `Mongoose`
+
+### 🛠️ Built With
+
+`HTML` · `CSS` · `JavaScript` · `Node.js` · `Express.js` · `MongoDB Atlas` · `Mongoose`
+
+**Repository:**
+https://github.com/MalarkodiTT/Hospital-Management-System
 
 ---
-
-<div align="center">
 
 ## 👁️ Face Attendance System
 
-### `Computer Vision × Attendance`
+### `Face Recognition × Attendance Automation`
 
-</div>
+A project exploring automated attendance using facial identification.
 
-A project focused on automating attendance through facial identification.
+### 🛠️ Built With
 
-**Technologies:** HTML · CSS · JavaScript
+`HTML` · `CSS` · `JavaScript`
 
-🔗 **[View Repository →](https://github.com/MalarkodiTT/Face-Attendence-System)**
+**Repository:**
+https://github.com/MalarkodiTT/Face-Attendence-System
 
 ---
-
-<div align="center">
 
 ## 📝 Online Examination System
 
 ### `Web Application × Digital Assessment`
 
-</div>
+An online examination platform focused on creating a digital assessment workflow.
 
-An online examination platform designed around the digital assessment workflow, including examination, submission and result processing.
+### ✨ Highlights
 
-🔗 **[View Repository →](https://github.com/MalarkodiTT/Online-Exam-System)**
+* Online examination
+* Exam workflow
+* Question handling
+* Timed assessment
+* Result processing
+
+**Repository:**
+https://github.com/MalarkodiTT/Online-Exam-System
 
 ---
 
-<div align="center">
+# 🧩 Problem Solving
 
-## 🧩 LeetCode Journey
+## LeetCode Journey
 
-### `Problem Solving × Data Structures × Algorithms`
+I maintain a dedicated repository for practicing **Data Structures & Algorithms** and improving my problem-solving approach.
 
-</div>
-
-A dedicated repository for continuously improving algorithmic thinking through coding problems.
-
-### Focus Areas
+### Areas I'm Practicing
 
 `Arrays` · `Strings` · `Linked Lists` · `Searching` · `Sorting` · `Recursion` · `Dynamic Programming` · `Problem Solving`
 
-🔗 **[Explore Solutions →](https://github.com/MalarkodiTT/leetcode)**
+**Repository:**
+https://github.com/MalarkodiTT/leetcode
 
 ---
 
-# 📊 GitHub Activity
+# 🎓 Learning & Growth
 
-<div align="center">
+Currently strengthening my fundamentals in:
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MalarkodiTT&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
+**Java**
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalarkodiTT&layout=compact&hide_border=true&theme=tokyonight"/>
+→ OOP · Collections · Exception Handling · Multithreading
 
-<br><br>
+**DSA**
 
-<img src="https://streak-stats.demolab.com?user=MalarkodiTT&theme=tokyonight&hide_border=true"/>
+→ Arrays · Strings · Linked Lists · Algorithms · Problem Solving
 
-</div>
+**Database**
 
----
+→ SQL · DBMS · Normalization · Query Optimization
 
-# 🐍 Contribution Activity
+**Backend**
 
-<div align="center">
+→ REST APIs · Node.js · Express.js · Authentication
 
-<img src="https://raw.githubusercontent.com/MalarkodiTT/MalarkodiTT/output/github-contribution-grid-snake-dark.svg" />
+**Emerging Technologies**
 
-</div>
-
----
-
-# 📌 What I'm Currently Improving
-
-<div align="center">
-
-|    Focus    | Goal                              |
-| :---------: | :-------------------------------- |
-|    ☕ Java   | Strong fundamentals + OOP         |
-|    🧩 DSA   | Problem-solving & algorithms      |
-|   🗄️ SQL   | Queries + database concepts       |
-|  🌐 Backend | APIs + system design fundamentals |
-|    🤖 AI    | Practical AI integrations         |
-| 🔐 Security | Authentication + cryptography     |
-|   ☁️ Cloud  | Deployment + cloud fundamentals   |
-
-</div>
+→ AI · Blockchain · Cryptography · Cloud · DevOps
 
 ---
 
-# 🏆 Beyond Code
+# 🌱 Beyond Technology
 
-<div align="center">
-
-🎓 **Computer Science Engineering**
+🎓 **Computer Science Engineering Student**
 
 💻 **Full-Stack Development Experience**
 
-🤖 **AI & Intelligent Applications**
+🤖 **AI & Intelligent Application Builder**
 
-⛓️ **Blockchain & Cryptography**
+⛓️ **Blockchain & Cryptography Explorer**
 
-🧩 **Continuous DSA Practice**
+🧩 **Problem-Solving Enthusiast**
 
 🥋 **State-Level Silambam Player**
 
-</div>
-
 ---
 
-# 💭 My Developer Philosophy
+# 💡 What I Believe
 
 <div align="center">
 
-### "Don't learn technology just to say you know it."
+### Don't just learn a technology.
 
-### "Build something that forces you to understand it."
+### Build something with it.
+
+### Break it.
+
+### Understand why it broke.
+
+### Make it better.
 
 <br>
 
-**Learn → Build → Debug → Understand → Improve**
+**That's how I learn.**
+
+</div>
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/MalarkodiTT">
+<img src="https://img.shields.io/badge/GitHub-MalarkodiTT-24292F?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+### ⭐ Explore my repositories and follow my journey!
 
 </div>
 
@@ -388,8 +364,8 @@ A dedicated repository for continuously improving algorithmic thinking through c
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2C5364,50:203A43,100:0F2027"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&gradientStart=6A5ACD&gradientEnd=FF6B9A"/>
 
-### ⚡ Building today. Learning every day. Engineering tomorrow.
+### ✨ Learning today · Building tomorrow ✨
 
 </div>
