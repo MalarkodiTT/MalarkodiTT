@@ -1,599 +1,640 @@
-# 👋 Hey, I'm Malarkodi T T
+<div align="center">
 
-### `Computer Science Engineer` · `Builder` · `Problem Solver` · `Tech Explorer`
+# ⚡ MALARKODI T T
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+real-world+software+solutions;Exploring+AI+%7C+Blockchain+%7C+DevOps;Turning+ideas+into+working+systems;Learning+by+building+%F0%9F%9A%80" />
+### `BUILDING SYSTEMS. BREAKING LIMITS. LEARNING CONSTANTLY.`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Full-Stack+Developer;AI+%2B+Blockchain+Explorer;Security+%2B+Cryptography+Enthusiast;Problem+Solver;I+build+what+I+want+to+understand." />
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/MalarkodiTT">
-    <img src="https://img.shields.io/github/followers/MalarkodiTT?style=for-the-badge&logo=github&label=FOLLOWERS" />
-  </a>
-  <a href="https://github.com/MalarkodiTT?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-8+-blue?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/MalarkodiTT/leetcode">
-    <img src="https://img.shields.io/badge/DSA-LeetCode-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-</p>
+<a href="https://github.com/MalarkodiTT">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/MalarkodiTT/leetcode">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
 
 ---
 
-## 🧠 `whoami`
-
-```java
-public class Malarkodi {
-
-    String role = "Computer Science Engineering Student";
-    
-    String[] interests = {
-        "Artificial Intelligence",
-        "Blockchain",
-        "Cryptography",
-        "Full-Stack Development",
-        "DevOps",
-        "Problem Solving"
-    };
-
-    String mindset = "Learn → Build → Break → Debug → Improve";
-
-    String goal =
-        "Become an engineer who understands not only HOW to build systems,"
-      + " but WHY they work.";
-
-}
-```
-
-> 🚀 **I learn technology by building with it.**
-
-Instead of learning technologies only through tutorials, I challenge myself to turn concepts into working applications.
-
-From **cryptographic secret reconstruction** to **AI-powered configuration analysis**, from **blockchain-based voting** to **real-time multilingual communication** — each project represents a different engineering problem I wanted to understand.
-
----
-
-# ⚡ My Tech Universe
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,nodejs,express,react,mongodb,mysql,git,github,aws" />
-
-</p>
-
-### 🧩 Core Areas
+# `> whoami`
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🤖 AI / LLM                    ⛓️ Blockchain              │
-│   ├── Groq                      ├── SHA-256                 │
-│   ├── Llama 3.1                 ├── Hashing                 │
-│   ├── AI Analysis               └── Tamper Detection        │
-│   └── Speech Processing                                      │
-│                                                             │
-│   🔐 Security                   ☁️ DevOps                    │
-│   ├── Cryptography              ├── Configuration Drift     │
-│   ├── 2FA / OTP                ├── Risk Classification      │
-│   ├── JWT                      └── Deployment               │
-│   └── Bcrypt                                                │
-│                                                             │
-│   🌐 Full Stack                 🧩 Problem Solving           │
-│   ├── React                    ├── Java                     │
-│   ├── Node.js                  ├── DSA                      │
-│   ├── Express                  ├── LeetCode                 │
-│   └── MongoDB                  └── Algorithms                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   MALARKODI T T                                              │
+│   ───────────────────────────────────────────────────────     │
+│                                                              │
+│   🎓  B.E. Computer Science Engineering                      │
+│                                                              │
+│   🧠  I learn by building real systems.                      │
+│                                                              │
+│   ⚡  I enjoy problems that sit between                       │
+│       software + security + intelligence.                    │
+│                                                              │
+│   🔭  Exploring                                             │
+│       AI · Blockchain · Cryptography · DevOps                │
+│                                                              │
+│   🎯  Goal                                                  │
+│       Become an engineer who understands                      │
+│       systems — not just syntax.                             │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🚀 Things I've Built
+# 🛰️ SYSTEM STATUS
 
-## 01 · 🤖 CONFIG DRIFT DETECTOR
+<div align="center">
 
-### `AI × DevOps × Security`
+|       DOMAIN      |    STATUS    |
+| :---------------: | :----------: |
+|       ☕ Java      | `████████░░` |
+|       🧩 DSA      | `███████░░░` |
+|   🌐 Full Stack   | `████████░░` |
+|       🤖 AI       | `███████░░░` |
+|   ⛓️ Blockchain   | `███████░░░` |
+|    🔐 Security    | `██████░░░░` |
+| ☁️ Cloud / DevOps | `██████░░░░` |
 
-> **What happens when the configuration you intended to deploy is NOT the configuration actually running?**
+</div>
 
-That's the problem I wanted to solve.
+> **These aren't claims of mastery. They represent the areas I'm actively building and strengthening.**
 
-My Config Drift Detector compares a **Golden Configuration** with a **Deployed Configuration**, identifies differences, determines their severity and uses AI to explain the potential impact and remediation.
+---
 
-### 🔥 The Pipeline
+# 🧬 MY ENGINEERING DNA
 
 ```text
-                 GOLDEN CONFIG
-                       │
-                       ▼
-              ┌─────────────────┐
-              │  Configuration   │
-              │    Comparison    │
-              └────────┬────────┘
-                       │
-                       ▼
-                 DeepDiff Engine
-                       │
-                       ▼
-          ┌──────────────────────────┐
-          │ Missing │ Added │ Changed │
-          │ Type Changes │ Paths     │
-          └─────────────┬────────────┘
-                        │
-                        ▼
-                 Severity Engine
-                        │
-             ┌──────────┴──────────┐
-             ▼          ▼          ▼
-          CRITICAL     HIGH     MEDIUM/LOW
-             │          │          │
-             └──────────┼──────────┘
-                        ▼
-                🤖 AI ANALYSIS
-                        │
-                        ▼
-          Impact + Risk + Remediation
-                        │
-                        ▼
-            📊 Dashboard + History
-                        │
-                        ▼
-                  📄 PDF Report
+                         ┌──────────────┐
+                         │   PROBLEM    │
+                         └──────┬───────┘
+                                │
+                                ▼
+                    ┌─────────────────────┐
+                    │   UNDERSTAND WHY    │
+                    └──────────┬──────────┘
+                               │
+             ┌─────────────────┼─────────────────┐
+             ▼                 ▼                 ▼
+        🤖 INTELLIGENCE   🔐 SECURITY       🌐 SYSTEMS
+             │                 │                 │
+             └─────────────────┼─────────────────┘
+                               ▼
+                         🛠️ BUILD
+                               │
+                               ▼
+                         💥 BREAK IT
+                               │
+                               ▼
+                         🐛 DEBUG IT
+                               │
+                               ▼
+                         🚀 DEPLOY IT
+                               │
+                               ▼
+                         🧠 LEARN
+                               │
+                               └───────────────↺
 ```
 
-### 🧠 What makes it interesting?
+---
 
-* 🔍 Deep configuration comparison
-* 🤖 LLM-powered impact analysis
-* 🚨 Risk-based severity classification
-* 📊 Interactive analytics
-* 🗂️ Historical audit tracking
-* 📄 Automated PDF reporting
-* 🔐 Authentication
-* 🗄️ SQLite persistence
+# 🌌 PROJECT UNIVERSE
 
-**Stack**
+<div align="center">
+
+### I DON'T BUILD THE SAME PROJECT TWICE.
+
+**Each project explores a different engineering problem.**
+
+</div>
+
+---
+
+## 🔥 01 — CONFIG DRIFT DETECTOR
+
+### `AI × DEVOPS × SECURITY`
+
+> **What if production quietly stops matching what you intended to deploy?**
+
+I built a system that compares **golden configuration** against **deployed configuration**, detects drift and uses AI to explain the consequences.
+
+```text
+                GOLDEN CONFIG
+                      │
+                      ▼
+              ┌──────────────┐
+              │   DeepDiff   │
+              └──────┬───────┘
+                     │
+       ┌─────────────┼──────────────┐
+       ▼             ▼              ▼
+    MISSING        ADDED         MODIFIED
+       │             │              │
+       └─────────────┼──────────────┘
+                     ▼
+              SEVERITY ENGINE
+                     │
+          ┌──────────┼──────────┐
+          ▼          ▼          ▼
+       CRITICAL     HIGH      MEDIUM
+                     │
+                     ▼
+                 🤖 LLM
+                     │
+          ┌──────────┼──────────┐
+          ▼          ▼          ▼
+        IMPACT     RISK      FIX
+                     │
+                     ▼
+              📊 DASHBOARD
+                     │
+                     ▼
+               📄 REPORT
+```
+
+**ENGINE**
 
 `Python` `Streamlit` `DeepDiff` `Groq` `Llama 3.1` `SQLite` `Plotly` `ReportLab`
 
-🔗 **[Explore the Repository →](https://github.com/MalarkodiTT/Config_Drift_Detector)**
+**WHAT I LEARNED**
 
----
+`Configuration Management` · `Risk Analysis` · `LLM Integration` · `Data Visualization` · `Audit Systems`
 
-# 02 · 🔐 SHAMIR'S SECRET SHARING
+<div align="center">
 
-### `Cryptography × Mathematics × Full Stack`
+### ⭐ FLAGSHIP PROJECT
 
-What if a secret should **never be stored in one place**?
-
-This project explores **Shamir's Secret Sharing**, where a secret can be reconstructed only when a required threshold of shares is available.
-
-### 🧮 The interesting part
-
-The system uses **Lagrange Interpolation** to recover the secret.
-
-```text
-                SECRET
-                   │
-                   ▼
-          Polynomial / Shares
-                   │
-       ┌───────────┼───────────┐
-       ▼           ▼           ▼
-     Share 1     Share 2     Share 3
-       │           │           │
-       └───────────┼───────────┘
-                   │
-              Threshold
-                   │
-                   ▼
-         Lagrange Interpolation
-                   │
-                   ▼
-              f(0) = SECRET
-```
-
-### ⚙️ Engineering highlights
-
-* Large integer handling using `BigInt`
-* Multiple numerical bases
-* JSON share processing
-* Threshold reconstruction
-* Lagrange interpolation
-* MongoDB persistence
-* React frontend
-* Node.js backend
-
-**Stack**
-
-`React` `Vite` `Node.js` `Express` `MongoDB` `Mongoose` `BigInt`
-
-🔗 **[Explore the Repository →](https://github.com/MalarkodiTT/Shamir-s-secret-share)**
-
----
-
-# 03 · 🌍 LIVE SESSION TRANSLATOR
-
-### `Real-Time Communication × Speech × Translation`
-
-Imagine joining an online meeting where everyone speaks a different language.
-
-This project explores how technology can make that communication barrier smaller.
-
-```text
-             🎙️ SPEAKER
-                  │
-                  ▼
-          Speech Recognition
-                  │
-                  ▼
-              TEXT
-                  │
-                  ▼
-           Translation API
-                  │
-                  ▼
-        Participant's Language
-             ┌────┴────┐
-             ▼         ▼
-        📝 Subtitle   🔊 Voice
-             │         │
-             └────┬────┘
-                  ▼
-          👥 PARTICIPANT
-```
-
-### ⚡ Features
-
-* 🎙️ Speech recognition
-* 🌍 Multilingual translation
-* 📝 Live subtitles
-* 🔊 Voice dubbing
-* ⚡ Socket.IO communication
-* 🎥 Jitsi Meet integration
-* 👥 Host / participant workflow
-
-**Stack**
-
-`React` `Node.js` `Express` `Socket.IO` `Web Speech API` `gTTS` `Jitsi`
-
-🔗 **[Explore the Repository →](https://github.com/MalarkodiTT/Automated-translation-in-live-sessions)**
-
----
-
-# 04 · ⛓️ BLOCKCHAIN E-VOTING
-
-### `Blockchain × Security × Authentication`
-
-A voting system where the main question isn't just:
-
-> **"Who voted?"**
-
-but also:
-
-> **"Can we detect if the stored voting record was modified?"**
-
-### 🔗 Block Integrity
-
-```text
-┌─────────────┐
-│   BLOCK 1   │
-│ Data        │
-│ Hash        │
-└──────┬──────┘
-       │ Previous Hash
-       ▼
-┌─────────────┐
-│   BLOCK 2   │
-│ Data        │
-│ Hash        │
-└──────┬──────┘
-       │ Previous Hash
-       ▼
-┌─────────────┐
-│   BLOCK 3   │
-│ Data        │
-│ Hash        │
-└─────────────┘
-```
-
-Change the data → hash changes → chain integrity breaks → tampering can be detected.
-
-### 🔐 Security Concepts
-
-* SHA-256 hashing
-* Previous-hash linking
-* Blockchain validation
-* Tamper detection
-* OTP / 2FA
-* Voter authentication
-* Candidate management
-
-**Stack**
-
-`Node.js` `Express.js` `MongoDB` `Mongoose` `JavaScript` `SHA-256`
-
-🔗 **[Explore the Repository →](https://github.com/MalarkodiTT/Blockchain-Based-E-Voting-System)**
-
----
-
-# 05 · 🏥 HOSPITAL MANAGEMENT SYSTEM
-
-### `Full Stack × REST API × Authentication`
-
-A complete healthcare management application designed to connect patients, doctors and administrators through a centralized platform.
-
-```text
-                    🏥 SYSTEM
-                       │
-          ┌────────────┼────────────┐
-          ▼            ▼            ▼
-      👨‍⚕️ DOCTOR     🧑 PATIENT    👨‍💼 ADMIN
-          │            │            │
-          └────────────┼────────────┘
-                       ▼
-                  REST APIs
-                       │
-                       ▼
-              Node.js + Express
-                       │
-                       ▼
-                  MongoDB
-```
-
-### 🔥 Modules
-
-**Patient**
-
-* Appointments
-* Insurance
-* Feedback
-
-**Doctor**
-
-* Appointment management
-* Patient queue
-* Digital prescriptions
-
-**Admin**
-
-* Doctor management
-* Resources
-* Analytics
-
-### 🔐 Backend concepts
-
-`REST API` `JWT` `Bcrypt` `Mongoose` `MongoDB Atlas`
-
-🔗 **[Explore the Repository →](https://github.com/MalarkodiTT/Hospital-Management-System)**
-
----
-
-# 06 · 👁️ FACE ATTENDANCE SYSTEM
-
-### `Computer Vision × Attendance Automation`
-
-A project exploring the use of facial identity for automated attendance workflows.
-
-```text
-📷 Camera
-   ↓
-Face Detection
-   ↓
-Face Identification
-   ↓
-👤 Student Match
-   ↓
-✅ Attendance
-```
-
-🔗 **[Explore the Repository →](https://github.com/MalarkodiTT/Face-Attendence-System)**
-
----
-
-# 07 · 📝 ONLINE EXAMINATION SYSTEM
-
-### `Digital Assessment Platform`
-
-A web application concept designed around the complete examination workflow.
-
-```text
-👤 User
-  ↓
-📝 Exam
-  ↓
-⏱️ Attempt
-  ↓
-📊 Evaluation
-  ↓
-🏆 Result
-```
-
-🔗 **[Explore the Repository →](https://github.com/MalarkodiTT/Online-Exam-System)**
-
----
-
-# 08 · 🧩 LEETCODE
-
-### `The Daily Battle With Algorithms`
-
-I don't consider DSA something that is "completed".
-
-It's a skill that improves through repetition.
-
-```text
-Problem
-   ↓
-Understand
-   ↓
-Brute Force
-   ↓
-Find Bottleneck
-   ↓
-Optimize
-   ↓
-Code
-   ↓
-Test
-   ↓
-Learn
-```
-
-🔗 **[Explore My Solutions →](https://github.com/MalarkodiTT/leetcode)**
-
----
-
-# 📊 MY PROJECT MAP
-
-```text
-                         MALARKODI
-                             │
-       ┌─────────────────────┼─────────────────────┐
-       │                     │                     │
-       ▼                     ▼                     ▼
-     🤖 AI                 🔐 SECURITY           🌐 FULL STACK
-       │                     │                     │
-       │                     ├── Shamir             ├── Hospital
-       ├── Config Drift     ├── Blockchain         ├── Translation
-       └── Translation      └── Authentication      └── Online Exam
-                             │
-                             ▼
-                       ⛓️ BLOCKCHAIN
-                             │
-                             ▼
-                     E-Voting System
-                             │
-                             ▼
-                       🧩 DSA / LEETCODE
-```
-
----
-
-# 🧪 HOW I LEARN
-
-I don't want to be someone who can only answer:
-
-> **"What is this technology?"**
-
-I want to become someone who can answer:
-
-> **"Why is it needed?"**
-
-> **"How does it work internally?"**
-
-> **"Where can it fail?"**
-
-> **"How would I improve it?"**
-
-That's why my projects cover different engineering problems rather than repeating the same CRUD application.
-
----
-
-# 🎯 CURRENT MISSION
-
-```text
-                 ┌──────────────────┐
-                 │  BECOME A STRONG │
-                 │   SOFTWARE       │
-                 │    ENGINEER      │
-                 └────────┬─────────┘
-                          │
-          ┌───────────────┼────────────────┐
-          ▼               ▼                ▼
-       ☕ JAVA          🧩 DSA          🗄️ DBMS
-          │               │                │
-          └───────────────┼────────────────┘
-                          ▼
-                  🌐 SOFTWARE DEVELOPMENT
-                          │
-              ┌───────────┼───────────┐
-              ▼           ▼           ▼
-             🤖 AI     ⛓️ Blockchain  ☁️ Cloud
-```
-
----
-
-# 📈 WHAT I'M WORKING ON
-
-* ☕ Strengthening Java & OOP
-* 🧩 Improving DSA & problem solving
-* 🗄️ Deepening DBMS & SQL fundamentals
-* 🌐 Building stronger backend systems
-* 🤖 Exploring practical AI applications
-* ⛓️ Understanding blockchain beyond the basics
-* 🔐 Learning security & cryptography concepts
-* ☁️ Improving cloud & DevOps knowledge
-
----
-
-# 🏆 MY ENGINEERING PHILOSOPHY
-
-### `Don't just use the technology. Understand the problem it solves.`
-
-```text
-          IDEA
-           ↓
-       EXPERIMENT
-           ↓
-         BUILD
-           ↓
-         BREAK
-           ↓
-        DEBUG
-           ↓
-        IMPROVE
-           ↓
-         DEPLOY
-           ↓
-          LEARN
-           ↺
-```
-
----
-
-# 🌱 Beyond the Code
-
-🏆 **State-Level Silambam Player**
-
-🎓 **B.E. Computer Science Engineering**
-
-👩‍💻 **Full-Stack Development Experience**
-
-💡 **AI / Blockchain Project Builder**
-
-🧩 **Competitive Problem Solver**
-
----
-
-# 🤝 LET'S CONNECT
-
-<p align="center">
-
-<a href="https://github.com/MalarkodiTT">
-<img src="https://img.shields.io/badge/GitHub-MalarkodiTT-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/MalarkodiTT/Config_Drift_Detector">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+# 🔐 02 — SHAMIR'S SECRET SHARING
 
-### 💻 BUILDING TODAY.
+### `CRYPTOGRAPHY × MATHEMATICS × FULL STACK`
 
-### 🧠 LEARNING EVERY DAY.
+> **A secret shouldn't have to live in one place.**
 
-### 🚀 ENGINEERING FOR TOMORROW.
+This project implements secret reconstruction using **threshold-based sharing + Lagrange interpolation**.
+
+```text
+                    SECRET
+                       │
+                       ▼
+                ┌─────────────┐
+                │   SHARING   │
+                └──────┬──────┘
+                       │
+             ┌─────────┼─────────┐
+             ▼         ▼         ▼
+          SHARE 1   SHARE 2   SHARE N
+             │         │         │
+             └─────────┼─────────┘
+                       │
+                    THRESHOLD
+                       │
+                       ▼
+             LAGRANGE INTERPOLATION
+                       │
+                       ▼
+                     f(0)
+                       │
+                       ▼
+                    SECRET
+```
+
+### UNDER THE HOOD
+
+`BigInt` → large-number arithmetic
+
+`Base decoding` → numerical representation handling
+
+`Lagrange interpolation` → mathematical reconstruction
+
+`MongoDB` → persistence
+
+`React` → interactive UI
+
+`Node.js` → backend
+
+---
+
+# 🌍 03 — LIVE SESSION TRANSLATOR
+
+### `SPEECH × TRANSLATION × REAL-TIME`
+
+> **Different languages shouldn't mean disconnected people.**
+
+```text
+       🎙️ SPEECH
+           │
+           ▼
+    SPEECH RECOGNITION
+           │
+           ▼
+         TEXT
+           │
+           ▼
+      TRANSLATION
+           │
+           ▼
+     ┌─────┴─────┐
+     ▼           ▼
+  📝 TEXT      🔊 VOICE
+     │           │
+     └─────┬─────┘
+           ▼
+      PARTICIPANT
+```
+
+### REAL-TIME LAYER
+
+`Socket.IO` + `Jitsi Meet`
+
+### LANGUAGE LAYER
+
+`Web Speech API` + `Translation API` + `gTTS`
+
+### UI
+
+`React`
+
+---
+
+# ⛓️ 04 — BLOCKCHAIN E-VOTING
+
+### `BLOCKCHAIN × HASHING × AUTHENTICATION`
+
+> **The question isn't only "who voted?" — it's also "was the record changed?"**
+
+```text
+┌───────────────┐
+│    BLOCK 01   │
+│               │
+│ Data          │
+│ SHA-256 Hash  │
+└───────┬───────┘
+        │
+        │ previousHash
+        ▼
+┌───────────────┐
+│    BLOCK 02   │
+│               │
+│ Data          │
+│ SHA-256 Hash  │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│    BLOCK 03   │
+│               │
+│ Data          │
+│ SHA-256 Hash  │
+└───────────────┘
+```
+
+### SECURITY LAYER
+
+`SHA-256` · `Hash Linking` · `Tamper Detection` · `OTP / 2FA` · `Authentication`
+
+---
+
+# 🏥 05 — HOSPITAL MANAGEMENT SYSTEM
+
+### `FULL STACK × REST API × SECURITY`
+
+A complete application connecting:
+
+```text
+         👤 PATIENT
+              │
+              ▼
+       ┌──────────────┐
+       │  REST APIs   │
+       └──────┬───────┘
+              │
+       ┌──────▼───────┐
+       │ NODE + EXPRESS│
+       └──────┬───────┘
+              │
+       ┌──────▼───────┐
+       │   MONGODB    │
+       └──────────────┘
+              ▲
+              │
+     ┌────────┼────────┐
+     │        │        │
+  PATIENT   DOCTOR    ADMIN
+```
+
+### SECURITY
+
+`JWT` · `Bcrypt` · `Authentication`
+
+### BACKEND
+
+`Node.js` · `Express.js` · `REST APIs`
+
+### DATABASE
+
+`MongoDB Atlas` · `Mongoose`
+
+---
+
+# 👁️ 06 — FACE ATTENDANCE
+
+### `VISION × AUTOMATION`
+
+```text
+📷 CAMERA
+   ↓
+FACE
+   ↓
+IDENTIFICATION
+   ↓
+STUDENT
+   ↓
+✓ PRESENT
+```
+
+[Repository →](https://github.com/MalarkodiTT/Face-Attendence-System)
+
+---
+
+# 📝 07 — ONLINE EXAMINATION SYSTEM
+
+### `ASSESSMENT × WEB`
+
+```text
+LOGIN
+  ↓
+EXAM
+  ↓
+TIMER
+  ↓
+SUBMIT
+  ↓
+EVALUATE
+  ↓
+RESULT
+```
+
+[Repository →](https://github.com/MalarkodiTT/Online-Exam-System)
+
+---
+
+# 🧩 08 — LEETCODE
+
+### `THE PLACE WHERE I TRAIN MY LOGIC`
+
+```text
+             ┌─────────────┐
+             │   PROBLEM   │
+             └──────┬──────┘
+                    ↓
+              BRUTE FORCE
+                    ↓
+             FIND BOTTLENECK
+                    ↓
+                OPTIMIZE
+                    ↓
+                 CODE
+                    ↓
+                 TEST
+                    ↓
+                 LEARN
+```
+
+**Algorithms aren't something I want to memorize.**
+
+**I want to understand the pattern behind them.**
+
+[→ Explore my solutions](https://github.com/MalarkodiTT/leetcode)
+
+---
+
+# 🧠 TECHNOLOGY CONSTELLATION
+
+<div align="center">
+
+```text
+                         🤖 AI
+                          │
+                          │
+             🔐 SECURITY ─┼─ ⛓️ BLOCKCHAIN
+                    ╲     │     ╱
+                     ╲    │    ╱
+                      ╲   │   ╱
+                       ╲  │  ╱
+                        ╲ │ ╱
+                    🌐 FULL STACK
+                         │
+                         │
+                      ☁️ CLOUD
+                         │
+                         │
+                      🧩 DSA
+```
+
+</div>
+
+---
+
+# 🛠️ TECH STACK
+
+<div align="center">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### DATABASE
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+### TOOLS / CLOUD
+
+<img src="https://skillicons.dev/icons?i=git,github,aws,vscode" />
+
+</div>
+
+---
+
+# 📊 GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MalarkodiTT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <br>
 
-**⭐ If you find something interesting in my repositories, feel free to explore!**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MalarkodiTT&theme=tokyonight&hide_border=true" />
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+# 🐍 CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MalarkodiTT/MalarkodiTT/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 📈 ENGINEERING TIMELINE
+
+```text
+2024
+ │
+ ├── 🌐 Full-Stack Internship
+ │
+ ▼
+2025
+ │
+ ├── 🏥 Hospital Management
+ ├── ⛓️ Blockchain E-Voting
+ ├── 👁️ Face Attendance
+ │
+ ▼
+2026
+ │
+ ├── 🔐 Shamir Secret Sharing
+ ├── 🌍 Live Translation
+ ├── 🤖 Config Drift Detector
+ ├── 🧩 LeetCode
+ │
+ ▼
+NEXT
+ │
+ ├── ☕ Advanced Java
+ ├── 🧩 DSA
+ ├── 🔐 Security
+ ├── 🤖 AI Engineering
+ └── ☁️ Cloud / DevOps
+```
+
+---
+
+# 🧪 MY FAVORITE KIND OF PROBLEM
+
+```text
+              "THIS SHOULD BE POSSIBLE..."
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │ RESEARCH    │
+                    └──────┬──────┘
+                           ▼
+                    ┌─────────────┐
+                    │ EXPERIMENT  │
+                    └──────┬──────┘
+                           ▼
+                    ┌─────────────┐
+                    │   BUILD     │
+                    └──────┬──────┘
+                           ▼
+                    ┌─────────────┐
+                    │   BREAK     │
+                    └──────┬──────┘
+                           ▼
+                    ┌─────────────┐
+                    │   DEBUG     │
+                    └──────┬──────┘
+                           ▼
+                    ┌─────────────┐
+                    │ UNDERSTAND  │
+                    └──────┬──────┘
+                           ▼
+                         🚀
+```
+
+---
+
+# 🎯 CURRENT OBJECTIVE
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                 BUILD STRONG FOUNDATIONS                     ║
+║                                                              ║
+║       JAVA   ·   DSA   ·   DBMS   ·   SQL   ·   APIs        ║
+║                                                              ║
+║                          ↓                                   ║
+║                                                              ║
+║                 BUILD BETTER SYSTEMS                         ║
+║                                                              ║
+║                          ↓                                   ║
+║                                                              ║
+║                  UNDERSTAND DEEPER                           ║
+║                                                              ║
+║                          ↓                                   ║
+║                                                              ║
+║                BECOME A BETTER ENGINEER                      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# ⚡ ONE-LINE SUMMARY
+
+<div align="center">
+
+### `I DON'T JUST COLLECT TECHNOLOGIES.`
+
+### `I BUILD PROJECTS TO UNDERSTAND THEM.`
+
+<br>
+
+**AI · Blockchain · Security · Full Stack · DevOps · DSA**
+
+</div>
+
+---
+
+# 🌐 FIND ME
+
+<div align="center">
+
+<a href="https://github.com/MalarkodiTT">
+<img src="https://img.shields.io/badge/GitHub-MalarkodiTT-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+⭐ **Explore the repositories.**
+
+💡 **Break something.**
+
+🧠 **Learn something.**
+
+🚀 **Build something better.**
+
+</div>
+
+---
+
+<div align="center">
+
+### `SYSTEM STATUS: ALWAYS LEARNING ⚡`
+
+</div>
