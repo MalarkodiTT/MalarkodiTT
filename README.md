@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MALARKODI%20T%20T&fontAlign=50&fontAlignY=40&fontSize=58&fontColor=ffffff&animation=fadeIn&color=0:0F2027,50:203A43,100:2C5364"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MALARKODI%20T%20T&fontAlign=50&fontAlignY=40&fontSize=58&fontColor=ffffff&animation=fadeIn&color=0:0F172A,50:1E3A8A,100:2563EB"/>
 
 <br>
 
@@ -386,7 +386,7 @@ A dedicated repository for continuously improving algorithmic thinking through c
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2C5364,50:203A43,100:0F2027"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2563EB,50:1E3A8A,100:0F172A"/>
 
 ### ⚡ Building today. Learning every day. Engineering tomorrow.
 
