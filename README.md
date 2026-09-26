@@ -1,24 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MALARKODI%20T%20T&fontAlign=50&fontAlignY=40&fontSize=58&fontColor=ffffff&animation=fadeIn&color=0:0F2027,50:203A43,100:2C5364"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=MALARKODI%20T%20T&fontAlign=50&fontAlignY=40&fontSize=62&fontColor=ffffff&animation=fadeIn&gradient=true&color=0:0F0C29,50:302B63,100:24243E"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Full-Stack+Developer;AI+%7C+Blockchain+%7C+DevOps+Enthusiast;Building+Real-World+Software+Systems;Problem+Solver+%7C+Continuous+Learner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=E6B8FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Full-Stack+Developer;AI+%7C+Blockchain+%7C+DevOps;Cryptography+%7C+Security+%7C+Problem+Solving;Turning+Ideas+Into+Working+Systems+%E2%9C%A8" />
 
 <br><br>
 
-<a href="https://github.com/MalarkodiTT">
-<img src="https://img.shields.io/badge/GitHub-MalarkodiTT-181717?style=for-the-badge&logo=github"/>
-</a>
-&nbsp;
-<a href="https://github.com/MalarkodiTT?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-2ea44f?style=for-the-badge&logo=github"/>
-</a>
-&nbsp;
-<a href="https://github.com/MalarkodiTT/leetcode">
-<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+<img src="https://img.shields.io/badge/BUILDING-0F0C29?style=for-the-badge&labelColor=302B63&color=9B59B6"/>
+<img src="https://img.shields.io/badge/LEARNING-0F0C29?style=for-the-badge&labelColor=302B63&color=BB86FC"/>
+<img src="https://img.shields.io/badge/EXPLORING-0F0C29?style=for-the-badge&labelColor=302B63&color=E0AAFF"/>
 
 </div>
 
