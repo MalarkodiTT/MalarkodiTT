@@ -264,13 +264,6 @@ A dedicated repository for continuously improving algorithmic thinking through c
 
 <div align="center">
 
-🎓 **Computer Science Engineering**
-
-💻 **Full-Stack Development Experience**
-
-🤖 **AI & Intelligent Applications**
-
-⛓️ **Blockchain & Cryptography**
 
 🧩 **Continuous DSA Practice**
 
