@@ -246,20 +246,6 @@ A dedicated repository for continuously improving algorithmic thinking through c
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MalarkodiTT&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalarkodiTT&layout=compact&hide_border=true&theme=tokyonight"/>
-
-<br><br>
-
-</div>
-
----
-
 # 📌 What I'm Currently Improving
 
 |    Focus    | Goal                              |
