@@ -256,8 +256,6 @@ A dedicated repository for continuously improving algorithmic thinking through c
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=MalarkodiTT&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
